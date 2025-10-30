@@ -1,1 +1,1 @@
-# Mini-Project
+Number Pattern Generator
